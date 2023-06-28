@@ -1,2 +1,1 @@
-# rat.github.io
-rat.
+This is a joke website by me
